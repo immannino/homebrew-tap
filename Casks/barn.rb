@@ -2,8 +2,8 @@
 # github.com/immannino/homebrew-tap as Casks/barn.rb. Users then run:
 #   brew install --cask immannino/tap/barn
 cask "barn" do
-  version "0.1.0"
-  sha256 "bd289fa436f5e30f56eaa0e7de4fac806dfb4fb14a651713fcefdbfd51ba0c5d"
+  version "0.1.1"
+  sha256 "1e8ce36cdc4093316cbdef8000219c8b5061dbe0325fd3819d4e3d7a4f059f6d"
 
   url "https://github.com/immannino/barn.app/releases/download/v#{version}/barn-#{version}.zip"
   name "barn"
